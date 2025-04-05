@@ -1,0 +1,23 @@
+.user-detail-container {
+    font-family: Tahoma, sans-serif;
+    margin: 20px;
+}
+
+.user-detail-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.user-detail-info {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-detail-info li {
+    margin-bottom: 10px;
+}
+
+.user-detail-button {
+    margin-top: 20px;
+}
